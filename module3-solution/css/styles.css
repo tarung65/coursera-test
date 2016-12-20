@@ -1,0 +1,61 @@
+body{
+	font-size: 16px;
+}
+#header-nav{
+	border-radius: 0;
+	margin-bottom: 5px;
+	border-color: black
+}
+.navbar-brand h1{
+	font-size: 1.75em;
+	font-weight: bold;
+	color: black;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid black;
+}
+#nav-list{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+#nav-list li{
+	border-top: 1px solid black
+}
+#nav-list h2{
+	text-align: center;
+	color: black;
+	font-size: 1.25em;
+}
+#main-content{
+	margin-top: 5px;
+	padding-top: 0;
+}
+#main-content>h2{
+	font-size: 1.5em;
+	font-weight: bold;
+	color: black;
+}
+.data{
+	background-color: gray;
+	margin-bottom: 15px;
+}
+.data h3{
+	font-size: 1.25;
+	font-weight: bold;
+	color: black;
+}
+.data p{
+	padding-right: 15px;
+	padding-top: 5px;
+	text-align: left;
+	font-size: 1.1em;
+	color: black;
+	font-style: italic;
+}
+.data a{
+	font-size: 0.9em;
+	color: red;
+}
+
